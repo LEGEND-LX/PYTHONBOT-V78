@@ -1,7 +1,7 @@
 {
-  "name": "🔥Python_Userbot🔥",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/db5029c3dcc65888ae9ef.jpg",
+  "name": "🔥VAMPIRE_Userbot🔥",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I M NANDAN-SINGH Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://telegra.ph/file/2746a2f28c90f87273592.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
+  "repository": "https://github.com/NANDAN-VAMPIRE/VAMPIREBOT-V9.0.8/",
   "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "success_url": "https://t.me/Python_Userbot_Support",
+  "success_url": "https://t.me/vampireee_op",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,23 +23,23 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND-LX User",
-      "value": "LEGEND-LX",
+      "description": "Fill your Full name. By default it is VAMPIRE_OP User",
+      "value": "VAMPIRE_OP",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .pyalive Or .op  Command.",
-      "value": "Pythonẞø† 𝐈𝐬 Online-Lx",
+      "value": "VAMPIRE_BOT 𝐈𝐬 Online-NANDAN_OP",
       "required": false
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Userbot_Support",
+      "value": "@vampireee_op",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Updata",
+      "value": "@VAMPIRE_UPDATE",
       "required": false
     },
     "EXTRA_PLUGIN": {
@@ -54,32 +54,32 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
-      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
+      "value": "https://telegra.ph/file/2746a2f28c90f87273592.jpg",
       "required": true
     },
     "PYTHON_PIC": {
       "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
+      "value": "https://telegra.ph/file/2746a2f28c90f87273592.jpg",
       "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
-      "value": "https://telegra.ph/file/7949b91419c14f3b91bc3.jpg",
+      "value": "https://telegra.ph/file/2746a2f28c90f87273592.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ Pythonẞø✞︎ @Python_Userbot_Support",
-      "required": true
+      "value": "𝙸 𝚊𝚖 VAMPIRE ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ VAMPIREẞø✞︎ @VAMPIRE_UPDATE",
+      "required":true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
+      "value": "https://telegra.ph/file/2746a2f28c90f87273592.jpg",
       "required": true
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ Pythonẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ VAMPIREẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -131,8 +131,8 @@
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
        "value": ""
     }, 
-    "PYTHON_STRING": {
-      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py ",
+    "VAMPIRE_STRING": {
+      "description": "Get this value by running https://replit.com/@NANDAN_VAMPIRE/VAMPIRE_STRING4#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -175,17 +175,17 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "𓆩༒",
+      "value": "🧛🧛🧛‍♂️🧛‍♀️",
       "required": true
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "༒𓆪",
+      "value": "🧛‍♂️🧛🧛‍♀️",
       "required": false
     },
     "ALIVE_EMOJI": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚡",
+      "value": "🦇",
       "required": false
     },
     "PM_DATA": {
