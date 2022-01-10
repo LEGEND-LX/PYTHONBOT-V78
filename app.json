@@ -1,7 +1,7 @@
 {
   "name": "PYTHON-V9BOT",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/db5029c3dcc65888ae9ef.jpg",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N \\l 𝐌𝐑-𝐙𝐈𝐃𝐈 🗸 【𝐙𝐈𝐃𝐈】ᵀᴴᴱ ᴼᴿᴵᴳᴵᴻᴬᴸ〚 ꪹ 〛 \\a《OFFICIAL》VIP ACCOUNT ❷⓿❷⓿ 【㉉㉉】\\b MASTER ꪜ【𝐙𝐈𝐃𝐈】[­〨] 〖007〗{ꪹ} ıllıllı 100% ıllıllı Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://telegra.ph/file/7f39eb9a386d0fecadd27.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "success_url": "https://t.me/Python_Userbot_Support",
+  "repository": "https://github.com/Rajveerxv/PYTHONBOT-V9.0.8/",
+  "website": "https://github.com/Rajveerxv/PYTHONBOT-V9.0.8/",
+  "success_url": "https://t.me/Nothing_x_7",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,23 +23,23 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND-LX User",
-      "value": "LEGEND-LX",
+      "description": "Fill your Full name. By default it is \\l 𝐌𝐑-𝐙𝐈𝐃𝐈 🗸 【𝐙𝐈𝐃𝐈】ᵀᴴᴱ ᴼᴿᴵᴳᴵᴻᴬᴸ〚 ꪹ 〛 \\a《OFFICIAL》VIP ACCOUNT ❷⓿❷⓿ 【㉉㉉】\\b MASTER ꪜ【𝐙𝐈𝐃𝐈】[­〨] 〖007〗{ꪹ} ıllıllı 100% ıllıllı User",
+      "value": "\l 𝐌𝐑-𝐙𝐈𝐃𝐈 🗸 【𝐙𝐈𝐃𝐈】ᵀᴴᴱ ᴼᴿᴵᴳᴵᴻᴬᴸ〚 ꪹ 〛 \a《OFFICIAL》VIP ACCOUNT ❷⓿❷⓿ 【㉉㉉】\b MASTER ꪜ【𝐙𝐈𝐃𝐈】[­〨] 〖007〗{ꪹ} ıllıllı 100% ıllıllı",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .pyalive Or .op  Command.",
-      "value": "Pythonẞø† 𝐈𝐬 Online-Lx",
+      "value": "Pythonẞø† 𝐈𝐬 Online",
       "required": false
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Userbot_Support",
+      "value": "@Nothing_x_7",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Updata",
+      "value": "@Nothing_x_0",
       "required": false
     },
     "EXTRA_PLUGIN": {
@@ -59,7 +59,7 @@
     },
     "PYTHON_PIC": {
       "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
+      "value": "https://telegra.ph/file/7f39eb9a386d0fecadd27.jpg",
       "required": true
     },
     "ALIVE_PIC": {
@@ -69,7 +69,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ Pythonẞø✞︎ @Python_Userbot_Support",
+      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ Pythonẞø✞︎ @Nothing_x_7☹️",
       "required": true
     },
     "PM_PIC": {
